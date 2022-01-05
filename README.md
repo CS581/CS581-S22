@@ -10,7 +10,7 @@ CS 480
 
 ## Topics
 
-* Search and optimization (2 weeks)
+* Search and optimization
   * Hill climbing
   * Gradient ascent/descent
   * Coordinate descent
@@ -25,17 +25,17 @@ CS 480
     * Alpha-beta search
     * Monte Carlo tree search
     * Backpropagation
-* Probabilistic reasoning (2 weeks)
+* Probabilistic reasoning
   * Bayesian networks
   * Temporal models
   * Hidden Markov models
   * Kalman filters
-* Decision-making under uncertainty (3 weeks)
+* Decision-making under uncertainty
   * Influence diagrams
   * Value of information
   * Markov decision processes
   * Bandit problems
-* Learning (3 weeks)
+* Learning
   * Supervised learning
   * Naive Bayes
   * Logistic regression
@@ -44,18 +44,18 @@ CS 480
     * Convolutional neural networks, recurrent neural networks
   * Reinforcement learning
     * Passive reinforcement learning, active reinforcement learning, temporal-difference learning, policy search
-* Knowledge representation (2 weeks)
+* Knowledge representation
   * Propositional logic
   * First-order logic
   * Conjunctive normal form
   * Resolution
   * Ontological engineering
-* AI Safety and Ethics (1.5 weeks)
+* AI Safety and Ethics
   * AI safety
   * Privacy
   * Bias and fairness in machine learning
   * Explainable AI
-* Other topics (1.5 weeks)
+* Other topics
   * Computer vision
   * Natural language processing
 
