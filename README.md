@@ -78,10 +78,9 @@ No textbook is required. You might find Artificial Intelligence: A Modern Approa
 
 Mustafa Bilgic
 
-Office hours: TBD <br>
-Office hour link: Please check Blackboard
+Office hour and contact info: Please see Blackboard.
 
-## Teaching Assistants
+## Teaching Assistant
 
 TBD
 
