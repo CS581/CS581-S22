@@ -82,7 +82,9 @@ Office hour and contact info: Please see Blackboard.
 
 ## Teaching Assistant
 
-TBD
+Juanyan Wang
+
+Office hour and contact info: Please see Blackboard.
 
 ## Assignments
 Assingments will be a mix of written and programming assignments. Written assignments will require you to solve toy versions of the problems manually. Programming assignments will require you to write Python code to solve larger problems. 
